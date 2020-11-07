@@ -17,4 +17,4 @@ Rate of change in the Death, Cure.
 <br>
 
 
-<img src="Images/Comparison_States.png" width="48">
+<img src="https://github.com/Sudhanshu1304/Covid_19-Analysis/blob/master/Images/Comparison_States%20.png" width="48">
