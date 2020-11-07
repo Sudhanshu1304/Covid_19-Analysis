@@ -16,5 +16,29 @@ Rate of change in the Death, Cure.
 
 <br>
 
+#### States Rate Comparision 
+***
 
-<img src="https://github.com/Sudhanshu1304/Covid_19-Analysis/blob/master/Images/Comparison_States%20.png" width="800px">
+<img src="https://github.com/Sudhanshu1304/Covid_19-Analysis/blob/master/Images/Comparison_States%20.png" width="700px">
+
+<br>
+
+#### Cure Rate V/S  Death Rate
+***
+
+<img src="https://github.com/Sudhanshu1304/Covid_19-Analysis/blob/master/Images/compare.png" width="700px">
+
+<br>
+
+#### Rate 
+***
+
+<img src="https://github.com/Sudhanshu1304/Covid_19-Analysis/blob/master/Images/rates.png" width="700px">
+
+<br>
+
+
+#### Case's Per Day Predication Curve
+***
+
+<img src="https://github.com/Sudhanshu1304/Covid_19-Analysis/blob/master/Images/case_per_day.png" width="700px">
